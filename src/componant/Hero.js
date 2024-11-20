@@ -72,19 +72,19 @@ const Hero = () => {
                 <div className="img">
                   <img
                     src={require("../asset/Ellipse 9.png")}
-                    className="absolute md:w-auto w-[14%] 2xl:top-[11.57%] xl:top-[14%] xl:right-[13.91%] lg:top-[13%] lg:right-[5%] right-[12%] top-[12%]"
+                    className="absolute md:w-auto w-[14%] 2xl:top-[11.57%] xl:top-[17%] xl:right-[13.91%] lg:top-[18%] lg:right-[5%]  right-[12%] top-[12%]"
                     width={"80px"}
                     alt=""
                   />
                   <img
                     src={require("../asset/Ellipse 8.png")}
-                    className="absolute md:w-auto w-[14%] md:top-[34.91%] top-[30%] right-[7.81%]"
+                    className="absolute md:w-auto w-[14%]  2xl:top-[34.91%] lg:top-[50%] top-[30%] right-[7.81%]"
                     width={"86px"}
                     alt=""
                   />
                   <img
                     src={require("../asset/Ellipse 11.png")}
-                    className="absolute md:w-auto w-[14%] md:top-[58.15%] right-[5.10%] top-[50%]"
+                    className="absolute md:w-auto w-[14%] 2xl:top-[58.15%] lg:top-[80%] right-[5.10%] top-[50%]"
                     width={"52px"}
                     alt=""
                   />
@@ -96,7 +96,7 @@ const Hero = () => {
                   />
                   <img
                     src={require("../asset/Ellipse 10.png")}
-                    className="absolute md:w-auto w-[14%] top-[36.39%] 3xl:right-[32%] 2xl:right-[40.83%] xl:right-[55%] lg:right-[53%] md:right-[35%] md:left-auto left-[10%] "
+                    className="absolute md:w-auto w-[14%] top-[36.39%] 3xl:right-[32%] 2xl:right-[40.83%] xl:right-[55%] lg:right-[58%] md:right-[35%] md:left-auto left-[10%] "
                     width={"57px"}
                     alt=""
                   />

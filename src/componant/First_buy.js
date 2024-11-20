@@ -18,8 +18,8 @@ const First_buy = () => {
           </marquee>
         </div>
         {/* Second Div */} 
-        <div className="p_2 xl:w-[110%] xl:h-[120px] h-[90px] bg-[#FFF4F1] xl:rotate-[-12deg] xl:translate-x-[-50px] xl:absolute xl:top-[40px] z-10 flex  items-center pl-[80px]" style={{border: "1px dashed #FE704B"}}>
-          <marquee behavior="" direction="right">
+        <div className="p_2 xl:w-[110%] xl:h-[120px] h-[90px] bg-[#FFF4F1] xl:rotate-[-12deg] xl:translate-x-[-50px] xl:absolute xl:top-[40px] z-10 flex  items-center xl:pl-[80px]" style={{border: "1px dashed #FE704B"}}>
+          <marquee behavior="" direction="right" className="" >
             <div className="flex  items-center pl-[80px] h-full">
               <img src={require("../asset/Group.png")} alt="" />
               <span className='bg_with_out_text ml-10 !xl:text-[48px] !text-[40px]'>On your First Buying </span>

@@ -8,7 +8,7 @@ const Testimonial = () => {
             <div className="hedding">
                 <div className="heddinge_main flex items-center gap-1 justify-center">
                     <img src={require("../asset/section-vec-l1 2.png")} alt="" className='w-[24px] h-[36px]' />
-                    <h3 className='md:text-[48px] text-[36px] font-[700] md:leading-[60px] leading-[48px]' >Client Testimonials</h3>
+                    <h3 className='md:text-[48px] !text-[30px] font-[700] md:leading-[60px] leading-[48px]' >Client Testimonials</h3>
                     <img src={require("../asset/section-vec-r1 2.png")} alt="" className='w-[24px] h-[36px] mt-[10px]' />
                 </div>
                 <div className="content">
